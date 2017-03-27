@@ -1,0 +1,34 @@
+body{
+  background-image: url("http://az616578.vo.msecnd.net/files/2016/06/03/636005821883879402-1986192892_fast-forward.jpg");
+  background-size:100%;
+  background-attachment: fixed;
+  color: white;
+}
+.block{
+    background: rgba(0, 0, 0, .9);
+    color:white;
+    padding: 20px;
+    width:50%;
+    margin-right:auto;
+    margin-left:auto;
+    border-radius:15px;
+    font-size:1.5em;
+    padding-bottom:3%;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.spacer {
+  padding: 3%;
+}
+h2{
+  display:inline;
+}
+
+#start, #reset{
+  margin:15px;
+}
+
+.btn-custom {
+    color:black;
+    background-color: white;
+    
+}
